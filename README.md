@@ -31,6 +31,12 @@ Instale o TypeScript globalmente usando npm (o gerenciador de pacotes do Node.js
     ```
 6. Abra o `index.html` em um navegador para visualizar a aplicação.
 
+
+## Tecnologias utilizadas:
+1. HTML
+2. CSS
+3. TypeScript
+   
 ## Possíveis Melhorias Futuras
 - Adicionar mais funcionalidades dinâmicas.
 - Adicionar uma API para fornecer conteúdo dinâmico adicional.
