@@ -3,7 +3,7 @@
 # Projeto Mundo Real ou Matrix
 
 ## Descrição
-Este projeto com foco na decisão de escolha entre a cor da pílula que representa a escolha de conhecer a verdade é a pílula vermelha (matrix), enquanto a pílula azul representa a escolha de continuar vivendo na ilusão (Mundo Real).
+Este projeto tem foco na decisão de escolha entre a cor da pílula que representa a escolha de conhecer a verdade é a pílula vermelha (matrix), enquanto a pílula azul representa a escolha de continuar vivendo na ilusão (Mundo Real).
 
 
 
